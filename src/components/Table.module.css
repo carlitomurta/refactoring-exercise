@@ -1,0 +1,28 @@
+.table {
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  border-collapse: collapse;
+  width: 100%;
+  color: gray;
+}
+
+.table thead > tr {
+  border: solid 2px #eeeeee;
+}
+
+.table th {
+  padding: 1.5rem 0;
+}
+
+.table tr {
+  text-align: left;
+}
+
+.table td {
+  padding: 1.5rem 0;
+}
+
+input[type="checkbox"] {
+  height: 1.25rem;
+  margin-left: 1rem;
+  width: 1.25rem;
+}
