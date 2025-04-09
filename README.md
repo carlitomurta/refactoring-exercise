@@ -21,6 +21,7 @@ You are tasked with building a small front-end application that gets mock data a
 
 - Use **React** (with hooks)
 - Use **TypeScript**
+- Unit tests are bonus
 - Use all your creativity ;D
 
 ## 🧪 The prototype
