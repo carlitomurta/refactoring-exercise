@@ -17,7 +17,16 @@ You are tasked with building a small front-end application that gets mock data a
 - The summary checkbox on the table header should either check all or uncheck all.
 - The summary checkbox should be indeterminate if just some of the issues are selected.
 
-## 📋 The Prototype
+## 🛠️ Requirements
+
+- Use **React** (with hooks)
+- Use **TypeScript**
+- Use all your creativity ;D
+
+## 🧪 The prototype
+
+![Prototype](https://github.com/user-attachments/assets/70eebce9-08c9-4274-8a72-5065247b1142)
+
 
 ## 💡 Tips
 
